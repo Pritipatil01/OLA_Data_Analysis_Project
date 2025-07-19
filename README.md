@@ -4,7 +4,7 @@ A comprehensive end-to-end data analysis project exploring the fascinating world
 
 **Project Overview**
 
-This project leverages a dataset of approximately 200,000 rows and 19 columns containing details such as:
+This project leverages a dataset of approximately 20,000 rows and 19 columns containing details such as:
 Booking Status
 Vehicle Type
 Pickup & Drop Locations
