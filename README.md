@@ -1,1 +1,1 @@
-Pritipatil01/OLA-Data-Analysis-Project-Using-SQL-and-Power-BI
+A comprehensive end-to-end data analysis project exploring the fascinating world of ride-sharing data! Using Excel, SQL, and Power BI, this project transforms raw data into meaningful insights through meticulous cleaning, in-depth analysis, and interactive visualizations.
